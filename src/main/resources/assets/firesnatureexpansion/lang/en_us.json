@@ -1,0 +1,13 @@
+{
+  "itemGroup.firesnatureexpansion": "Example Mod Tab",
+  "block.firesnatureexpansion.example_block": "Example Block",
+  "item.firesnatureexpansion.example_item": "Example Item",
+
+  "firesnatureexpansion.configuration.title": "Fire's Nature Expansion Configs",
+  "firesnatureexpansion.configuration.section.firesnatureexpansion.common.toml": "Fire's Nature Expansion Configs",
+  "firesnatureexpansion.configuration.section.firesnatureexpansion.common.toml.title": "Fire's Nature Expansion Configs",
+  "firesnatureexpansion.configuration.items": "Item List",
+  "firesnatureexpansion.configuration.logDirtBlock": "Log Dirt Block",
+  "firesnatureexpansion.configuration.magicNumberIntroduction": "Magic Number Text",
+  "firesnatureexpansion.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "net.fireofpower.firesnatureexpansion.mixins",
+  "refmap": "irons_spellbooks.refmap.json",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "net.fireofpower.firesnatureexpansion.mixins.MixinPlugin",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
