@@ -1,10 +1,11 @@
 {
   "required": true,
-  "package": "net.fireofpower.firesnatureexpansion.mixins",
+  "package": "net.fireofpower.openpocketdimension.mixins",
   "refmap": "irons_spellbooks.refmap.json",
   "compatibilityLevel": "JAVA_21",
-  "plugin": "net.fireofpower.firesnatureexpansion.mixins.MixinPlugin",
+  "plugin": "net.fireofpower.openpocketdimension.mixins.MixinPlugin",
   "mixins": [
+    "PocketDimensionSnapDisablerMixin"
   ],
   "client": [
   ],
