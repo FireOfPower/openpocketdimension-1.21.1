@@ -46,7 +46,7 @@ authors="Fire"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-An expansion to the Nature school of Iron's Spells n Spellbooks
+Prevents the "snapping" effect caused by leaving the barrier bounds of a pocket dimension in ISS
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.

@@ -1,4 +1,4 @@
-package net.fireofpower.firesnatureexpansion;
+package net.fireofpower.openpocketdimension;
 
 import java.util.List;
 import java.util.Set;
